@@ -1,4 +1,4 @@
-# OPS-FileSpeedTester
+# FileSpeedTester
 Operations File Speed Testing tool
 
 ![Alt text](images/ui.png)
