@@ -23,7 +23,6 @@ def main():
         ]
 
 
-
     window = sg.Window("Copy Time Tool", layout)
     while True:  # The Event Loop
         event, values = window.read()
@@ -65,10 +64,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-

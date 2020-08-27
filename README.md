@@ -1,8 +1,10 @@
 # OPS-FileSpeedTester
 Operations File Speed Testing tool
 
+![Alt text](images/ui.png)
+
 # Install Instructions
-Install using "File Speed Tester-0.1-win32.msi" in the dist folder
+Install using ```File Speed Tester-0.1-win32.msi``` in the ```dist``` folder
 
 # How to build application 
 Requires python 3.8 installed on build machine

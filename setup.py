@@ -16,4 +16,8 @@ setup(name='File Speed Tester',
       executables=executables
       )
 
+bdist_msi = {
+    'install_icon' : 'argus-logo.png'
+
+}
 
